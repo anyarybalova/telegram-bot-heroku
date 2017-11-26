@@ -1,9 +1,9 @@
-# Telegram Bot in Node.Js
+# Telegram Bot in Node
 
 ### Name:
  @meme_creator_bot
 
-![](meme_creator_bot.gif)
+![](meme_creator_bot.gif | width=400)
 
 ### Description:
 When you load a picture, bot asks you 3-4 questions and returns you a meme. :)
