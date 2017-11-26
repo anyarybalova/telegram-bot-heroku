@@ -3,7 +3,7 @@
 ### Name:
  @meme_creator_bot
 
-![](meme_creator_bot.gif | width=400)
+![](meme_creator_bot.gif)
 
 ### Description:
 When you load a picture, bot asks you 3-4 questions and returns you a meme. :)
